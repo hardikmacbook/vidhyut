@@ -1,0 +1,31 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 18 Feb 2024 17:12:59 at https://vidhyutpower.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://vidhyutpower.com/ -O1 "C:\Users\DELL\Desktop\vidh" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:14:21	Error: 	"Forbidden" (403) at link https://vidhyutpower.com/xmlrpc.php?rsd (from https://vidhyutpower.com/)
+17:15:01	Error: 	"Not Found" (404) at link https://j0i.8c3.myftpupload.com/wp-content/uploads/2023/09/Vline-white.png (from https://vidhyutpower.com/)
+17:15:01	Warning: 	Link https://vidhyutpower.com/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+17:15:01	Error: 	"Not Found" (404) at link https://j0i.8c3.myftpupload.com/wp-content/uploads/2023/09/sl_0210121_40570_43-scaled.jpg (from https://vidhyutpower.com/wp-content/uploads/elementor/css/post-928.css?ver=1707376739)
+17:15:05	Warning: 	Moved Permanently for https://vidhyutpower.com/?p=495
+17:15:05	Warning: 	File has moved from https://vidhyutpower.com/?p=495 to https://vidhyutpower.com/about-us-2/
+17:15:11	Warning: 	Moved Permanently for https://vidhyutpower.com/?p=3363
+17:15:11	Warning: 	File has moved from https://vidhyutpower.com/?p=3363 to https://vidhyutpower.com/benchmark-projects/
+17:15:21	Warning: 	Moved Permanently for https://vidhyutpower.com/?p=1840
+17:15:21	Warning: 	File has moved from https://vidhyutpower.com/?p=1840 to https://vidhyutpower.com/csr/
+17:15:21	Warning: 	Moved Permanently for https://vidhyutpower.com/?p=3554
+17:15:21	Warning: 	File has moved from https://vidhyutpower.com/?p=3554 to https://vidhyutpower.com/clients/
+17:15:22	Warning: 	Moved Permanently for https://vidhyutpower.com/?p=3716
+17:15:22	Warning: 	File has moved from https://vidhyutpower.com/?p=3716 to https://vidhyutpower.com/career/
+17:15:22	Error: 	"Not Found" (404) at link https://j0i.8c3.myftpupload.com/wp-content/uploads/2023/09/icon_school.png (from https://vidhyutpower.com/career/)
+17:15:22	Warning: 	Moved Permanently for https://vidhyutpower.com/?p=37
+17:15:22	Warning: 	File has moved from https://vidhyutpower.com/?p=37 to https://vidhyutpower.com/connect-us/
+17:15:37	Warning: 	Moved Permanently for https://vidhyutpower.com/?p=5855
+17:15:37	Warning: 	File has moved from https://vidhyutpower.com/?p=5855 to https://vidhyutpower.com/schneider-panels/
+17:15:37	Error: 	"Not Found" (404) at link https://j0i.8c3.myftpupload.com/wp-content/uploads/2023/09/Blood-donatin-1.jpg (from https://vidhyutpower.com/wp-content/uploads/elementor/css/post-1840.css?ver=1707372771)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 38 seconds : 262 links scanned, 249 files written (31388171 bytes overall) [24083089 bytes received at 152424 bytes/sec], 10731581 bytes transferred using HTTP compression in 145 files, ratio 28%, 9.7 requests per connection
+(5 errors, 15 warnings, 0 messages)
